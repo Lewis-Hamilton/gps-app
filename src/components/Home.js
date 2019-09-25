@@ -14,7 +14,7 @@ class Home extends Component {
   render() {
     return (
       <div className="col-md-6">
-        <h1>Hey Grace Point Students!</h1>
+        <h1>Welcome Grace Point Students!</h1>
         <button onClick={this.logout}>Logout</button>
       </div>
     );
